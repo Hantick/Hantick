@@ -1,4 +1,15 @@
 ## Respectfully welcome to my profile 👋
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hantick&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hantick&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+###
 ## Contact me
 <a href="https://discord.com/users/245276198404489217" target="_blank" rel="noopener noreferrer">
     <img src="https://static.cdnlogo.com/logos/d/43/discord.svg" alt="Discord" height="40"></a>
